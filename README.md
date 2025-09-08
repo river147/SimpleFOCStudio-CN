@@ -1,7 +1,6 @@
-<img width="1302" height="932" alt="image" src="https://github.com/user-attachments/assets/b7796261-31cd-4431-a7c8-4c39066614e9" />
-
-
 ## SimpleFOCStudio 汉化版中文自述
+
+<img width="1302" height="932" alt="image" src="https://github.com/user-attachments/assets/b7796261-31cd-4431-a7c8-4c39066614e9" />
 
 SimpleFOCStudio 是基于 PyQt5 的图形化工具，用于通过串口或无线（TCP）连接对基于 SimpleFOC 库的 BLDC/步进电机控制器进行实时调参、监控与代码生成。
 
@@ -166,6 +165,7 @@ void loop(){
 - 本人仅对界面与文档进行中文本地化（汉化）等轻量改动，不涉及核心功能逻辑的原创性变更。
 - 本项目的使用、复制、修改与分发，均应严格遵循原仓库的许可协议（LICENSE）；如与本文档描述存在差异，以原许可文件为准。
 - 若原作者或版权方对此有进一步要求，请以其公告为准，并可联系我进行相应调整或移除。
+
 
 
 
