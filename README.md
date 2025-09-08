@@ -54,11 +54,6 @@ python simpleFOCStudio.py
 ### 集成串口终端
 命令行窗口会显示设备的原始输出，也可直接发送 Commander 指令。
 
-提示：如下消息为下位机（固件）输出，非上位机生成：
-- `D-BOT ESP32S3 SimpleFOC Device`
-- `FOC READY`
-- `Wireless Tuning Server Ready`
-
 ### 常见问题（FAQ）
 - 无法连接串口？
   - 确认端口号与波特率，检查占用情况与驱动。
@@ -87,6 +82,7 @@ pyinstaller -F -w simpleFOCStudio.py
 - 本人仅对界面与文档进行中文本地化（汉化）等轻量改动，不涉及核心功能逻辑的原创性变更。
 - 本项目的使用、复制、修改与分发，均应严格遵循原仓库的许可协议（LICENSE）；如与本文档描述存在差异，以原许可文件为准。
 - 若原作者或版权方对此有进一步要求，请以其公告为准，并可联系我进行相应调整或移除。
+
 
 
 
